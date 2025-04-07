@@ -10,11 +10,12 @@
   "UniqueID": "CameronHimself.DeviceSpecificZoom",
   "Name": "Device Specific Zoom",
   "Author": "cameronhimself",
-  "Version": "1.0.0-Debug",
+  "Version": "1.0.0",
   "MinimumApiVersion": "4.0.0",
   "MinimumGameVersion": "1.6.0",
   "EntryDll": "DeviceSpecificZoom.dll",
   "UpdateKeys": [
-    "Nexus:33003"
+    "Nexus:33003",
+    "GitHub:cameronhimself/DeviceSpecificZoom"
   ]
 }

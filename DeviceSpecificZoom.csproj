@@ -11,7 +11,7 @@
     <UniqueID>CameronHimself.DeviceSpecificZoom</UniqueID>
     <MinimumGameVersion>1.6.0</MinimumGameVersion>
     <MInimumApiVersion>4.0.0</MInimumApiVersion>
-    <UpdateKeys>Nexus:33003</UpdateKeys>
+    <UpdateKeys>Nexus:33003,GitHub:cameronhimself/DeviceSpecificZoom</UpdateKeys>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Leclair.Stardew.ModManifestBuilder" Version="2.4.1" />
